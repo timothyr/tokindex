@@ -7,4 +7,18 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'tokindex';
+
+  navMenuOpen = false;
+  userMenuOpen = false;
+  sortMenuOpen = false;
+
+  sideMenuOverlayOpen = false;
+
+  colorSectionOpen = false;
+  categorySectionOpen = false;
+  sizeSectionOpen = false;
+
+  onViewGridClicked() {
+    // TODO
+  }
 }
