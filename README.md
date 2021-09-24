@@ -1,5 +1,15 @@
 # Tokindex
 
+Decentralized accuracy in pricing and cryptocurrency valuation
+
+[Live demo](https://timothyr.github.io/tokindex/)
+
+Built for ETHGlobal's [ETHOnline 2021 Hackathon](https://online.ethglobal.com/)
+
+[tokindex github](https://github.com/tokindex)
+
+## Angular version
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.1.
 
 ## Development server
